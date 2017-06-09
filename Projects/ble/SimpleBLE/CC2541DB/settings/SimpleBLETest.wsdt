@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>SimpleBLETest/CC2541</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>307</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <TerminalIO/>
+      <Find-in-Files>
+        
+        
+        
+      <ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-in-Files>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1306</ColumnWidth1></Debug-Log>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-13501-7313</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>SimpleBLETest</ExpandedNode><ExpandedNode>SimpleBLETest/APP</ExpandedNode><ExpandedNode>SimpleBLETest/HAL</ExpandedNode><ExpandedNode>SimpleBLETest/HAL/Common</ExpandedNode><ExpandedNode>SimpleBLETest/HAL/Target</ExpandedNode><ExpandedNode>SimpleBLETest/HAL/Target/CC2540EB</ExpandedNode><ExpandedNode>SimpleBLETest/HAL/Target/CC2540EB/Drivers</ExpandedNode><ExpandedNode>SimpleBLETest/HAL/Target/CC2540EB/Drivers/hal_key.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20422-8002</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-27199-16268</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-16829-28948</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\AFE4404_Drv.h</Filename><XPos>0</XPos><YPos>90</YPos><SelStart>5423</SelStart><SelEnd>5423</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\simpleBLETest.h</Filename><XPos>0</XPos><YPos>71</YPos><SelStart>2662</SelStart><SelEnd>2662</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\simpleBLETest.c</Filename><XPos>0</XPos><YPos>375</YPos><SelStart>11766</SelStart><SelEnd>11766</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\AFE4404_Drv.c</Filename><XPos>0</XPos><YPos>430</YPos><SelStart>10843</SelStart><SelEnd>10843</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\SimpleBLETest_Main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>247</SelStart><SelEnd>247</SelEnd></Tab><ActiveTab>4</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_key.c</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>5181</SelStart><SelEnd>5181</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\include\hal_key.h</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>3097</SelStart><SelEnd>3101</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_sensor.h</Filename><XPos>0</XPos><YPos>49</YPos><SelStart>2794</SelStart><SelEnd>2794</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_sensor.c</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>3302</SelStart><SelEnd>3302</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_i2c.h</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>3371</SelStart><SelEnd>3371</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_i2c.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>4305</SelStart><SelEnd>4305</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\osal\common\OSAL.c</Filename><XPos>0</XPos><YPos>336</YPos><SelStart>9793</SelStart><SelEnd>9793</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\osal\common\OSAL_Timers.c</Filename><XPos>0</XPos><YPos>280</YPos><SelStart>7756</SelStart><SelEnd>7756</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00e4eef0><key>iaridepm.enu1</key></Toolbar-00e4eef0></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>452</Bottom><Right>398</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>146413</sizeHorzCX><sizeHorzCY>290698</sizeHorzCY><sizeVertCX>292826</sizeVertCX><sizeVertCY>659884</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>191</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>193</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>280523</sizeHorzCY><sizeVertCX>146413</sizeVertCX><sizeVertCY>290698</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

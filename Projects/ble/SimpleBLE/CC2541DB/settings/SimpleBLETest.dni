@@ -1,0 +1,42 @@
+[DebugChecksum]
+Checksum=-1901874809
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "D:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验06 串口输出\BLE-CC254x-1.3.2-OSAL\Components\hal\target\CC2540EB\hal_aes.c" ""
+A1=_ "D:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验06 串口输出\BLE-CC254x-1.3.2-OSAL\Components\hal\target\CC2540EB\hal_dma.c" ""
+A2=_ "D:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验06 串口输出\BLE-CC254x-1.3.2-OSAL\Components\osal\common\OSAL_PwrMgr.c" ""
+A3=_ "D:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验06 串口输出\BLE-CC254x-1.3.2-OSAL\Projects\ble\SimpleBLE\Source\OSAL_SimpleBLETest.c" ""
+A4=_ "D:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验06 串口输出\BLE-CC254x-1.3.2-OSAL\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A5=_ "E:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验01 OSAL初探\BLE-CC254x-1.3.2-OSAL\Components\hal\target\CC2540EB\hal_adc.c" ""
+A6=_ "E:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验01 OSAL初探\BLE-CC254x-1.3.2-OSAL\Components\hal\target\CC2540EB\hal_aes.c" ""
+A7=_ "E:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验01 OSAL初探\BLE-CC254x-1.3.2-OSAL\Components\osal\common\OSAL_PwrMgr.c" ""
+Count=8
+SuppressDialog=0
